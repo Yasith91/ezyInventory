@@ -1,0 +1,2 @@
+# ezyInventory
+Inventory Management System
